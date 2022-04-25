@@ -24,4 +24,4 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 
 The result when we apply the algorithm steps is the photo you see below.
 
-![BinarySearchTree](C:\Users\Oguzhan\Desktop\data-structures-and-algorithms\Binary Search Tree Project\binary-search-tree.png)
+![BinarySearchTree](binary-search-tree.png)
